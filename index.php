@@ -24,9 +24,6 @@
             <a href="#">购买</a><br>
             <a href="https://101pl.github.io/01/wudi">此处获取吴迪嫌弃脸</a><br>
             <img src="images/oh.jpg" alt="oh"><br>
-            <?php
-echo "滚木";
-?>
             
         </main>
         
