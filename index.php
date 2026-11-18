@@ -6,6 +6,8 @@
         <title>三角洲滚木67哈哈币商行</title>
     </head>
     <body>
+        <?php
+        $s=5;
         <header style="text-align: topleft;padding: 80px;">
             <a href="https://101pl.github.io/01/sign up">注册</a>
             <a href="#">登录</a>
@@ -21,7 +23,9 @@
             <a href="#">出售</a><br>
             <a href="#">购买</a><br>
             <a href="https://101pl.github.io/01/wudi">此处获取吴迪嫌弃脸</a><br>
-            <img src="images/oh.jpg" alt="oh">
+            <img src="images/oh.jpg" alt="oh"><br>
+            echo s;
         </main>
+        ?>
     </body>
 </html>
